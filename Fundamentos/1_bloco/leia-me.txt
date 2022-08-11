@@ -1,1 +1,1 @@
-Aqui estão todas as pastas do bloco 1 Git 01 Unix & Bash
+Aqui estão todas as pastas do Bloco 01: Unix & Bash

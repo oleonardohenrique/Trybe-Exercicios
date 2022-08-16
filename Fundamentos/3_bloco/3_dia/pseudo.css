@@ -1,6 +1,5 @@
 div:hover {
-    border-style: ridge;
-    border-color: red;
+    border: 5px solid red;
 }
 div:active:nth-child(3) {
     color: blue;

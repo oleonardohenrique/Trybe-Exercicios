@@ -1,0 +1,28 @@
+div:hover {
+    border-style: ridge;
+    border-color: red;
+}
+div:active:nth-child(3) {
+    color: blue;
+    background-color: red;
+}
+div:active:nth-child(4) {
+    color: green;
+    background-color: orange;
+}
+div:active:nth-child(5) {
+    color: red;
+    background-color: rgb(138, 138, 37);
+    font-size: 40px;
+}
+div:active:nth-child(6) {
+    color: rgb(70, 10, 67);
+    background-color: antiquewhite;
+}
+div:active:nth-child(7) {
+    color: rgb(195, 252, 247);
+    background-color: black;
+}
+div:active:nth-child(odd) {
+    font-style: italic;
+}

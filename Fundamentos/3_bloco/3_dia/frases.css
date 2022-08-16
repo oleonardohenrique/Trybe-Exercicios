@@ -1,0 +1,45 @@
+.lista-ordenada {
+    background-color: yellow;
+}
+.par {
+    color: rgb(9, 241, 9);
+}
+.impar {
+    text-transform: uppercase;
+}
+.header {
+    color: red;
+}
+.italic {
+    font-size: 40px;
+    border: 1px solid black;
+}
+.lista {
+    font-size: 20px;
+}
+.ph {
+    color: blue;
+}
+.js {
+    background-color: pink;
+}
+.SO:hover {
+    font-weight: bold;
+    color: orange;
+}
+.W3:hover {
+    font-weight: bold;
+    color: rgb(2, 255, 2);
+}
+.MDN:hover {
+    font-weight: bold;
+    color: black;
+}
+.DD:hover {
+    font-weight: bold;
+    color: yellow;
+}
+.Tr:hover {
+    font-weight: bold;
+    color: green;
+}

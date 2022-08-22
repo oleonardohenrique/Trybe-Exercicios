@@ -11,4 +11,5 @@ for (let dividendo = 2; dividendo <= 50; dividendo += 1) {
         maiorPrimo = dividendo;
     }
 }
+
 console.log(maiorPrimo)
